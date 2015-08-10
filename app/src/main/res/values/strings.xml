@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+
+    <string name="activity_lifecycle">Activity Lifecycle</string>
+
+    <string name="action_start_another_activity_explicitly">Start Another Activity Explicitly</string>
+
+    <string name="action_start_another_activity_implicitly">Start Another Activity Implicitly</string>
+
+</resources>
